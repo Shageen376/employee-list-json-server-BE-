@@ -1,0 +1,41 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "JSON Server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "This is a great post! Thanks for sharing.",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "I learned a lot from this. Keep it up!",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "name": "shageen",
+      "email": "shagen@gmail.com",
+      "mobile": "09876564632",
+      "designation": "Manager",
+      "gender": "Female",
+      "courses": [
+        "React",
+        "Node"
+      ],
+      "imageFilename": "1732896486924_IMG_20211109_125543_447.jpg",
+      "createdAt": "2024-11-29T15:52:42.870Z",
+      "id": 1,
+      "mobileNo": "9876564e632"
+    }
+  ]
+}

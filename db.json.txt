@@ -1,0 +1,21 @@
+{
+"employees": [
+    {
+      "id": 2,
+      "uniqueId": "EMP002",
+      "name": "shageen fathima.s",
+      "email": "shagen@gmail.com",
+      "mobileNo": "+1987654321",
+      "designation": "Developer",
+      "gender": "Female",
+      "course": "Business Administration",
+      "createdAt": "2023-02-10",
+      "imageFilename": "1732803450664_WIN_20241101_18_37_40_Pro.jpg",
+      "courses": [
+        "React",
+        "Node",
+        "JavaScript"
+      ]
+    }
+  ]
+}
